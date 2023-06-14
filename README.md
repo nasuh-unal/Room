@@ -1,5 +1,5 @@
 
-Guess The Word App
+Contact list
 ==================================
 
 Introduction
