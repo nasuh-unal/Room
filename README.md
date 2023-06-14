@@ -1,3 +1,4 @@
+
 Guess The Word App
 ==================================
 
@@ -8,6 +9,7 @@ I have developed an application to improve myself in the room database. This app
 
 Project Features
 --------------
+
 - MVVM
 - LiveData
 - Navigation Architecture Component
